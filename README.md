@@ -1,4 +1,4 @@
-# ChatGPT-impact-on-labor-market
+# ChatGPT-impact-on-labor-market-using-NLTK-and-LDA
 Impact of ChatGPT on jobs
 
 The integration of artificial intelligence (AI) technologies has revolutionized various aspects of our lives, and the realm of employment is no exception. Among these innovations, ChatGPT stands out as a versatile tool, capable of understanding and generating human-like text. In this report, we delve into the impact of ChatGPT on the ever-evolving landscape of the technology job market. As organizations increasingly adopt AI-driven solutions, it becomes imperative to examine how ChatGPT influences job roles, skill requirements, and employment dynamics within the tech sector. By analyzing trends, challenges, and opportunities, we aim to provide insights into the transformative effects of ChatGPT on workforce composition, job functions, and career trajectories in the tech industry.
